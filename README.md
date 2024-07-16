@@ -4,7 +4,7 @@ My name is **icer233**<!-- the bold part is the origin of my ID -->. I am an und
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=icer233&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=icer233&show_icons=true">
 </picture>
 
 -   :pencil2: C++ / Markdown / C / Latex / Python / HTML
