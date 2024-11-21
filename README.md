@@ -1,31 +1,95 @@
+<div align="center">
+ 
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="http://sue.sparkflare.cn/views/personal-introduction.html">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm Icer233, welcome here!&#162;er=true&size=27" />
+    </a>
+  </div>
+ 
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
+  </picture>
+ 
+  <!-- for beauty 留个空行好看点 -->
+  <div> </div>
+   
+   
+  <!-- 个人信息统计 -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=icer233&show_icons=true&include_all_commits=true&hide_border=true" alt="Sue's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icer233&layout=compact&theme=buefy&hide_border=true" />
+   
+   
+  <!-- 活跃折线图 -->
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=icer233&theme=xcode&bg_color=FF000000&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=icer233&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=icer233&theme=xcode&bg_color=FF000000&hide_border=true" />
+  </picture>
+   
+  <div> </div>
+   
+  <!-- GitHub 奖杯&#127942; -->
+  <div><img src="https://github-profile-trophy.vercel.app/?username=icer233&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+ 
+</div>
+ 
+<div> </div>
+ 
+ 
+<div align="center">
+    <!-- github-readme-streak-stats 连续提交代码天数记录 -->
+    <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/left.png" />
+    <picture>
+      <source aligh="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=icer233&theme=dark&hide_border=true" />
+      <source aligh="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=icer233&theme=light&hide_border=true" />
+      <img aligh="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icer233&theme=dark&hide_border=true" />
+    </picture>
+    <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/right.png" />
+    <div> </div>
 
-
-My name is **icer233**<!-- the bold part is the origin of my ID -->. I am an undergraduate student in China.
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=icer233&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=icer233&show_icons=true">
-</picture>
-
--   :pencil2: C++ / Markdown / C / Latex / Python / HTML
--   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :seedling: Doing some network security research with @chenjj
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new)!
--   :mag: [CVEs discovered by me](CVE.md)
--   :star: [Projects starred by me](AWESOME-STARS.md)
-
----
-
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
-
-<!--START_SECTION:waka-->
-
-```txt
-C++                21 hrs 45 mins  🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.78 %
-Markdown           20 hrs 53 mins  🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.83 %
-C                  9 hrs 14 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.91 %
-Latex              8 hrs 21 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.13 %
-Python             4 hrs 30 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.95 %
-```
-
-<!--END_SECTION:waka-->
+</div>
+ 
+### &#129520; Tools:
+<!--  skill badge 技能徽章 -->
+<div align="center">
+ 
+![Python](https://img.shields.io/badge/Python-6DB33F?logo=python&logoColor=fff&style=flat) ![Mysql](https://img.shields.io/badge/Mysql-47A248?logo=mysql&logoColor=fff&style=flat) ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat) ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+ 
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat) ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black) ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white) ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
+ 
+</div>
+ 
+<div align="center">
+  <!-- svg动图 -->
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right:35px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+   
+  <!-- svg静态图 -->
+  <img src="https://skillicons.dev/icons?i=git,postman,anaconda,pycharm,webstorm,linux,ubuntu,gmail,unity,mongodb,c,cpp"/>
+</div>
+ 
+<!-- Gif -->
+<div align="center">
+  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
+  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
+  <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
+  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
+  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
+  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
+</div>
+ 
+ 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/icon.png" />
+</div>
